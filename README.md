@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**Coeurtisol/Coeurtisol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Dany and I'm web developer specialized in JavaScript (TS)
 
-Here are some ideas to get you started:
+#### I’m looking to collaborate on:
+- A big project like reproducing a website like Amazon or an app like Facebook (in JS ofc)
+- Creating an rpg game in JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to reach me:
+- https://www.linkedin.com/in/dany-rose-7177b81b5/
+- danyrosedev@gmail.com
+
+#### Fun fact: 
+- I started playing piano
